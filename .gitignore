@@ -6,7 +6,7 @@ __pycache__/
 airflow/logs/
 airflow/dags/__pycache__/
 airflow/data/
-
+jars/
 
 
 # Environment
